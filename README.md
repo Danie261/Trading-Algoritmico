@@ -1,3 +1,3 @@
 # Trading-Algoritmico
 
-#Technical Indicators for Algorithmic Trading
+#Technical Indicators, Strategies and Backtesting
